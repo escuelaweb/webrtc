@@ -1,0 +1,21 @@
+{
+    "name": "sails-test",
+    "private": true,
+    "version": "0.0.0",
+    "description": "a Sails application",
+    "dependencies": {
+        "sails": "0.8.894"
+    },
+    "scripts": {
+        "start": "node .app.js",
+        "debug": "node debug .app.js"
+    },
+    "main": ".app.js",
+    "repository": "",
+    "author": "",
+    "license": "MIT",
+    "subdomain": "sails-test",
+    "engines": {
+        "node": "0.8.x"
+    }
+}
