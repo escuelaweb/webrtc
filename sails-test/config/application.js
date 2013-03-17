@@ -4,7 +4,7 @@ module.exports = {
 	appName: "WebRTC",
 
 	// Port this Sails application will live on
-	port: 80,
+	port: 8080,
 
 	// The environment the app is deployed in 
 	// (`development` or `production`)
