@@ -4,7 +4,8 @@
     "version": "0.0.0-1",
     "description": "a Sails application",
     "dependencies": {
-        "sails": "0.8.894"
+        "sails": "0.8.894",
+        "webrtc.io":"0.0.3"
     },
     "scripts": {
         "start": "node .app.js",
